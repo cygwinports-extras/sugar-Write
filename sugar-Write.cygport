@@ -1,0 +1,8 @@
+NAME="sugar-Write"
+VERSION=86
+RELEASE=1
+SUGAR_TYPE="fructose"
+inherit sugar
+
+
+REQUIRES="girepository-Abi2.9 girepository-Gconf2.0"
